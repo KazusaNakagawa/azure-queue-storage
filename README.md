@@ -3,5 +3,5 @@
 
 ### Install PyPI
 ```bash
-pip install azure-storage-queue
+pip install -r requirements.txt
 ```
